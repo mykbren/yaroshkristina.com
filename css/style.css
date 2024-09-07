@@ -152,6 +152,20 @@ body {
   max-width: 100%;
 }
 
+.dev {
+  color: #fff;
+  display: inline-block;
+  font-family: 'Inconsolata', sans-serif;
+  font-size: 11px;
+  text-align: center;
+  width: 100%;
+} 
+
+.dev a {
+  display: inline-block !important;
+  font-size: 11px !important;
+} 
+
 @media only screen and (max-width: 320px) {
   .masonry {
     -moz-column-count: 1;
